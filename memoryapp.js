@@ -3,52 +3,58 @@ document.addEventListener('DOMContentLoaded', () => {
   //card options
   const cardArray = [
     {
-      name: 'fries',
-      img: 'images/fries.png'
+      name: 'clown',
+      img: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fheavy.com%2Fwp-content%2Fuploads%2F2016%2F10%2Fgettyimages-494980596-e1475624206705.jpg%3Fquality%3D65%26strip%3Dall&f=1&nofb=1'
     },
     {
-      name: 'cheeseburger',
-      img: 'images/cheeseburger.png'
+      name: 'duck',
+      img: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Mallard2.jpg'
     },
     {
-      name: 'ice-cream',
-      img: 'images/ice-cream.png'
+      name: 'lemonade ',
+      img: 'https://www.simplyrecipes.com/thmb/EpcrvdO75skao1yGZEqwLbbuEbE=/569x427/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__06__lemonade-640-2-dm-52003f61e7944b38a6ad6a7f8a366826.jpg'
     },
     {
-      name: 'pizza',
-      img: 'images/pizza.png'
+      name: 'joe',
+      img: 'https://upload.wikimedia.org/wikipedia/commons/b/b1/Joe_Exotic_%28Santa_Rose_County_Jail%29.png'
     },
     {
-      name: 'milkshake',
-      img: 'images/milkshake.png'
+      name: 'mama',
+      img: 'https://pbs.twimg.com/media/EEBhMsSXYAEG1Rw.jpg'
     },
     {
-      name: 'hotdog',
-      img: 'images/hotdog.png'
+      name: 'ninja',
+      img: 'https://images.firstpost.com/wp-content/uploads/2019/08/ninja-streamer.jpg'
     },
     {
-      name: 'fries',
-      img: 'images/fries.png'
+      name: 'clown',
+      img: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fheavy.com%2Fwp-content%2Fuploads%2F2016%2F10%2Fgettyimages-494980596-e1475624206705.jpg%3Fquality%3D65%26strip%3Dall&f=1&nofb=1'
+      
     },
     {
-      name: 'cheeseburger',
-      img: 'images/cheeseburger.png'
+      name: 'duck',
+      img: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Mallard2.jpg'
+      
     },
     {
-      name: 'ice-cream',
-      img: 'images/ice-cream.png'
+      name: 'lemonade',
+      img: 'https://www.simplyrecipes.com/thmb/EpcrvdO75skao1yGZEqwLbbuEbE=/569x427/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__06__lemonade-640-2-dm-52003f61e7944b38a6ad6a7f8a366826.jpg'
+     
     },
     {
-      name: 'pizza',
-      img: 'images/pizza.png'
+      name: 'joe',
+      img: 'https://upload.wikimedia.org/wikipedia/commons/b/b1/Joe_Exotic_%28Santa_Rose_County_Jail%29.png'
+     
     },
     {
-      name: 'milkshake',
-      img: 'images/milkshake.png'
+      name: 'mama',
+      img: 'https://pbs.twimg.com/media/EEBhMsSXYAEG1Rw.jpg'
+  
     },
     {
-      name: 'hotdog',
-      img: 'images/hotdog.png'
+      name: 'ninja',
+      img: 'https://images.firstpost.com/wp-content/uploads/2019/08/ninja-streamer.jpg'
+    
     }
   ]
 
